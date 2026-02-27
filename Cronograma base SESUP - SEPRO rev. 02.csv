@@ -1,0 +1,115 @@
+;;;
+;FILTROS PALAVRAS CHAVES;;
+CRITICIDADE;PALAVA CHAVE 1;PALAVA CHAVE 2;EXEMPLOS DE CONTRATAÇÕES
+BAIXO;Materiais comerciais;Equipamentos comerciais;Aqusição de materiais e equipamentos comerciais (itens de prateleira)
+BAIXO;Equipamentos;Industrializados;Aquisição de equipamentos industrializados e padronizados
+BAIXO;Jardinagem;Vegetação;Contratação de serviços de jardinagem
+BAIXO;Locação;Aluguel;Serviços de locação de equipametos
+BAIXO;Análise;Laboratorial;Serviço de análise laboratorial
+BAIXO;Análise;Concreto;Serviço de analise de patologia de concreto
+BAIXO;Locação;Andaimes;Serviço de locação de andaimes
+BAIXO;Locação;Ferramentas elétricas;Serviço de locação de ferramentas elétricas
+BAIXO;Concreto;Usinado;Aquisição de concreto usinado
+BAIXO;Plano de Rigging;Içamento;Serviço de elaboração de Plano de Rigging
+BAIXO;Predial;Conservação;Pequenos serviços prediais e de conservação
+BAIXO;Consertos;Tubulação;Pequenos serviços de conserto em tubulação
+BAIXO;Consertos;Elétrica;Pequenos serviços de conserto em elétrica
+BAIXO;Homem-hora;HH;Contratação de serviço de homem-hora
+BAIXO;Comissionamento;start up;Contratação de mão-de-obra de startup
+BAIXO;Comissionamento;Posta em marcha;Contratação de mão-de-obra de comissionamento
+BAIXO;Partida assistida;Acompanhamento;Contratação de mão-de-obra de e partida assistida
+BAIXO;Apreciação de riscos (NRs);Normas regulamentadoras;Contratação de serviço de apreciação de condições atendendo as normas regulamentadores
+BAIXO;PLC;Componenente de automação;Aquisição de materiais de automação e componentes
+BAIXO;Pavimentos;Pavers / Piso;Serviço de repado de pavimentos em pavers ou concreto de baixa dureza.
+BAIXO;Calçadas;Pavimento;Serviço de construção de calçadas
+BAIXO;Pintura;Predial;Serviço de pintura predial ou tubulação
+BAIXO;Isolamento térmico;Condensação;Serviços de isolamento térmico
+BAIXO;5S / organização;Limpeza;Serviço de 5S, organização e limpeza
+BAIXO;Peças;Croqui / rascunho;Fabricação de peças com rascunhos e/ou croquis
+BAIXO;Peças;Pequenas;Fabricação de pequenas peças
+BAIXO;Estruturas;Racks / Drivins;Aquisição de estruturas para estocagem de materiais (MP, insumos ou outros)
+BAIXO;Dispositivos;Segurança;Fabricação de dispositivos de segurança
+BAIXO;Dispositivos;Máquinas;Fabricação de dispositivos de máquinas
+BAIXO;Projetos;Conceitual;"Contratação de projetos conceituais de civis, elétrico e utilidades;"
+BAIXO;Sondagem;Solo;Serviço de sondagem de solo
+BAIXO;Demarcação;Pintura;Serviço de pintura de demarcação de segurança.
+BAIXO;Reparos;Vazamentos;Serviço de reparos de vazamentos de baixa complexidade
+BAIXO;Piso;Recuperação;Serviço de recuperação de piso
+BAIXO;Frete;Transporte;Serviços de fretamento
+BAIXO;Topografia;Geotécnico;Serviços de topografia e estudos geotécnicos
+BAIXO;Alvenaria;Edificações;Serviço menores de alvenaria em edificações
+BAIXO;Usinagem;Peças;Serviço de usinagem de peças
+BAIXO;Especializada;Técnicos;Contratação de especialistas ou técnicos certificados
+BAIXO;Fechamento metálico;Estruturas;Serviço de fechamento metálico 
+BAIXO;Demolição;Construção;Serviço de demolição de paredes ou pequenas construções
+BAIXO;Treinamento;Instrutor;Serviço de treinamento técnico
+BAIXO;Dispositivos;Máquinas;Serviços de instalação, substituição ou montagem de pequenos dispositivos de máquinas sem a necessidade de utilidades ou elátrica
+MÉDIO;Equipamentos;Comercial;"Serviços de instalação de equipamentos comerciais;"
+MÉDIO;Dispositivos;Adequação;"Serviços de instalação de dispositivos de máquinas onde se requer adequações elétricas e de utilidades;"
+MÉDIO;Automação;PLC;"Serviços de automação;"
+MÉDIO;Projetos;Executivo;"Contratação de projetos executivos (civis, elétrico e utilidades);"
+MÉDIO;Projetos;Dimensionamento;"Contratação de projetos de dimensionamento (civis, elétrico e utilidades);"
+MÉDIO;Consultoria;Consultor técnico;"Contatação de serviço de consultoria;"
+MÉDIO;Elétrica;Baixa tensão;"Serviços elétricos de baixa tensão;"
+MÉDIO;Pavimentação;Vias externas;Serviços de pavimentação de vias externas
+MÉDIO;Telhados;Reparo;Serviço de reparo em telhados
+MÉDIO;Pavimentação;Concretagem;Serviço de concretagem de piso (pavimento em concreto armado ou protendido)
+MÉDIO;Máquinas;Nacionais;"Aquisição de máquinas nacionais;"
+MÉDIO;Equipamentos;Nacionais;"Aquisição de equipamentos nacionais;"
+MÉDIO;Construção;Edificações;"Serviços de construção civil de pequenas edificações;"
+MÉDIO;Análise técnica;Consultoria;"Serviço de análise técnica de elétrica, civil e utilidades;"
+MÉDIO;Dimensionamento;Projeto;"Serviço de dimensionamento técnico em geral;"
+MÉDIO;Estruturas;Racks / Drivins;Serviço de montagem de estruturas para estocagem de MP ou insumos
+MÉDIO;Fundação;Concreto;Serviço de construção de fundação.
+MÉDIO;Construção;Concreto;Serviço de construção de estruturas de concreto, armado, protendido ou outros
+MÉDIO;Reforma;Vida últil;"Serviço de reforma de máquinas para aumento de vida útil;"
+MÉDIO;Terraplanagem;Terraplenagem;"Serviços de terraplenagem, terraplanagem e relacionados;"
+MÉDIO;Pavimentação;Asfalto;"Serviço de pavimentação em concreto, asfalto, BGS, outros;"
+MÉDIO;Expansão civil;Prédios;"Serviço de expansão civil de prédios existentes;"
+MÉDIO;Expansão tubulação;Utilidades;"Serviço de expansão de tubulações (utilidades);"
+MÉDIO;Supressão vegetal;Podas;"Serviços de supressão vegetal e polda de árvores;"
+MÉDIO;Descarregamento;Máquinas;"Serviços de descarregamento de máquinas e equipamentos;"
+MÉDIO;Demolição;Destinação certificada;Serviço de demolição de pédios e estruturas com destinação certificada de materiais
+MÉDIO;Desova;Movimentação;"Serviços de desova de containers;"
+MÉDIO;Transporte;Movimentação;"Serviços de transporte de máquinas e equipamentos;"
+MÉDIO;Remoção;Movimentação;"Serviços de remoção de máquinas e equipamentos;"
+MÉDIO;Estruturas;Telhado;"Serviços de fabricação e montagem de estruturas e equipamentos acima de telhado;"
+MÉDIO;Espaço confinado;NR 33;"Serviços em espaço confinado;"
+MÉDIO;Órgãos governamentais;Licenças;Serviços para adequação de orgãos governamentais como (prefeitura, bombeiros, orgãos ambientais, etc).
+MÉDIO;Drenagem;Micro - macro;Serviços de drenagem de solo ou instalações relacionadas.
+ALTO;Máquinas;Internacional;"Aquisição de máquinas e equipamentos internacionais;"
+ALTO;Emergencial;Obras;Contratação de obras emergenciais para assegurar a continuidade da produção
+ALTO;Transporte pneumático;Dosagem automática;"Contratação de serviços de transporte pneumático e dosagem automática;"
+ALTO;Elétrica;Alta tensão;"Serviços elétricos de alta tensão;"
+ALTO;Telhados;Estruturas;Serviço de construção e montagem de estruturas metálicas para telhados.
+ALTO;Máquinas;Parque fabril;Serviço de instalação de máquinas injetoras, termoformagem, extrusoras do parque fabril.
+ALTO;Utilidades;Máquinas;Instalação de equipamentos de utilidades
+ALTO;Telhados;Dispositivos;Serviço de instalação de dispositivos elétricos e mecânicos acima de telhados
+ALTO;Projetos;Alta complexidade;"Contratação de elaboração de projetos de alta complexidade;"
+ALTO;Reservatórios;Construção;Serviço de construção ou montagem de reservatórios de grande volumes
+ALTO;Reparo;Intrferência em produção;Serviços de reparo de vazamentos que interferem com a área produtiva
+ALTO;Montagem;Máquinas / Estruturas / Equipamentos;"Montagem industrial de máquinas, estruturas e equipamentos;"
+ALTO;Máquinas;Customizadas;"Fabricação de máquinas costomizadas;"
+ALTO;Construção;Projetos multidisciplinares;"Construção de prédios envolvendo projetos de diversas naturezas;"
+ALTO;Subestação;Alta tensão;"Contratação de serviços elétricos em subestações ou itens relacionados a alta tensão;"
+ALTO;Licenças ambientais;Autorização;Contratação de estudos ambientais, licenças prévias, de instalação e operação
+ALTO;Fornecimento crítico;Equipamentos;Fornecimento de equipamentos sob encomenda com longo lead time
+ALTO;Integração sistemas;Críticos;Serviços de integração entre sistemas críticos do projeto
+ALTO;Logística internacional;Transporte;Serviços de transporte internacional e desembaraço aduaneiro
+ALTO;Projeto;Multidisciplinares;Serviço de elaboração e validação de projetos executivos multidisciplinares
+ALTO;Coordenação;Disciplinas entre fornecedores;Serviço de coordenação entre disciplinas e fornecedores
+ALTO;Moldes;Processo produtivo;Aquisição de moldes para processo processo produtivo (nacional ou internacional)
+ALTO;Auditorias;Adequação;Serviços para adequações em atendimento aos requisitos de auditorias
+ALTO;Seguradora;Adequação;Serviços para adequações em atendimento aos requisitos de seguradoras
+ALTO;Estruturas;Alta responsabilidade;Serviço de montagem de estruturas metálicas ou civil de alta responsabilidade
+ALTO;Peças para moldes;Componentes;Fabricação de peças de moldes (nacional ou internacional)
+ALTO;Reparos em moldes;Reforma;Serviço de reparo ou reforma em moldes
+ALTO;Automação industrial;PLC;Contratação de instalação de sistemas de automação, PLC, SCADA e integração
+ALTO;Comissionamento;Testes / Start up;Serviços de comissionamento, testes e start-up da planta/sistema
+ALTO;Parada programada;Materiais críticos;Serviços e materiais críticos para execução de paradas de fábrica
+ALTO;Cibersegurança;Sistemas Críticos;Soluções e serviços de segurança da informação para sistemas críticos
+ALTO;Máquinas operatrizes;Usinagem;Aquisição de máquinas operatrizes
+ALTO;Combate a incêndio;Hidrantes / Sprinklers;Serviços de montagem de hidrantes e sprinklers
+ALTO;Central de alarmes;Detecção de incêndio;Serviços de Instalação de central de alarmes e dispositivos
+ALTO;Dispositivos;Detecção de incêndio;Serviços de instalação de dispositivos relacionados ao sistema de combate a incêndio
+ALTO;Reparos;Emergencial;"Contratações de serviços de reparos emergenciais (garantia de segurança, riscos ergonômicos, integradade de estruturas mecanicas e civis);"
